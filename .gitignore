@@ -1,0 +1,7 @@
+/target/
+/data/*.mv.db
+/data/*.lock.db
+/data/*.trace.db
+/.maven-cache/
+/work/
+*.log
